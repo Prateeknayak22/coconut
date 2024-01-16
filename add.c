@@ -5,5 +5,5 @@ void main()
    a=4;
    b=5;
    c=a*b;
-   printf("result=%d',c);
+   printf("result=%d",c);
 }
